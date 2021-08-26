@@ -9,4 +9,4 @@ sh assume-role.sh <rolename> <accountid>
 
 ```
   
-example assume-role.sh K2C-irestore-admin-caa-role <XXXirestore-account-idXXX>
+example assume-role.sh XXXX-XXXX-admin-caa-role <XXXirestore-account-idXXX>
